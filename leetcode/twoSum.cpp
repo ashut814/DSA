@@ -1,4 +1,4 @@
-/* APProach.1 O(n^2) + O(1)
+// APProach.1 O(n^2) + O(1)
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -14,7 +14,6 @@ public:
         }
 };
 
-*/
 
 //  Approach-2 O(N) + O(N)
 class Solution {
